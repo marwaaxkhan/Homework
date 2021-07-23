@@ -1,4 +1,4 @@
-package hw1Q2JavaBasics01;
+package hw1Q2JavaBasics;
 
 public class Good_afternoon {
 
